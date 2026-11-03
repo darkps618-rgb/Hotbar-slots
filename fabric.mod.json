@@ -1,0 +1,31 @@
+{
+	"schemaVersion": 1,
+	"id": "hotbarprofiles",
+	"version": "${version}",
+	"name": "Hotbar Profiles",
+	"description": "Create, rename and switch between named hotbar keybind profiles (e.g. PvP, Survival).",
+	"authors": [
+		"Me!"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/hotbarprofiles/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"main": [
+			"ggs.modid.Mod"
+		],
+		"client": [
+			"ggs.modid.client.ModClient"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.20.1",
+		"minecraft": "~26.3",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

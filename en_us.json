@@ -1,0 +1,22 @@
+{
+	"key.category.hotbarprofiles.main": "Hotbar Profiles",
+	"key.hotbarprofiles.open": "Open Hotbar Profiles Menu",
+	"key.hotbarprofiles.next": "Next Hotbar Profile",
+	"key.hotbarprofiles.previous": "Previous Hotbar Profile",
+	"key.hotbarprofiles.profile_1": "Switch to Profile #1",
+	"key.hotbarprofiles.profile_2": "Switch to Profile #2",
+	"key.hotbarprofiles.profile_3": "Switch to Profile #3",
+	"key.hotbarprofiles.profile_4": "Switch to Profile #4",
+	"hotbarprofiles.screen.title": "Hotbar Profiles",
+	"hotbarprofiles.button.new": "New",
+	"hotbarprofiles.button.duplicate": "Duplicate",
+	"hotbarprofiles.button.delete": "Delete",
+	"hotbarprofiles.button.delete_confirm": "Sure?",
+	"hotbarprofiles.button.activate": "Set Active",
+	"hotbarprofiles.slot": "Slot %s",
+	"hotbarprofiles.unbound": "None",
+	"hotbarprofiles.status.active": "Active profile - changes apply instantly",
+	"hotbarprofiles.status.inactive": "Not active - press Set Active to use it",
+	"hotbarprofiles.status.listening": "Press a key or mouse button for slot %s (Esc cancels)",
+	"hotbarprofiles.toast.title": "Hotbar profile"
+}
